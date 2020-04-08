@@ -50,6 +50,7 @@ nav {
 }
 .nav-link {
     color: white;
+    text-transform: uppercase;
 }
 .nav-link:hover {
     font-size: 25px;
