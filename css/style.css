@@ -202,6 +202,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: 100;
 }
 .lead {
     margin: 0;
@@ -424,14 +425,13 @@ section {
     opacity: 0.5;
     display: flex;
 }
-.form-image {
+button {
     width: 27%;
     height: 23%;
     margin: 0;
     padding: 0;
-    opacity: 1;
-    text-align: center;
-    display: flex;
+    opacity: 0.5;
+    border: 0px;
 }
 footer {
     width: 100%;
